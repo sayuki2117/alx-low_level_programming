@@ -1,1 +1,1 @@
-8. UNIX is basically a simple operating system     
+6. Size is not grandeur, and territory does not make a nation     
