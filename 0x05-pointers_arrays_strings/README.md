@@ -1,1 +1,1 @@
-11. Don't hate the hacker, hate the code
+10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
