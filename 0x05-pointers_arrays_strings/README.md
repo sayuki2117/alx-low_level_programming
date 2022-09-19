@@ -1,1 +1,1 @@
-2. This report, by its very length, defends itself against the risk of being read
+3. I do not fear computers. I fear the lack of them
