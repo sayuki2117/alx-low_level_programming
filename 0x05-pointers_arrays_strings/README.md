@@ -1,1 +1,1 @@
-10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+6. Half the lies they tell about me aren't true
