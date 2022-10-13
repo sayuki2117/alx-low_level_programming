@@ -13,19 +13,19 @@ void print_strings(const char *separator, const unsigned int n, ...)
 {
 	unsigned int k;
 	char *str;
-	va_list str_list;
+	va_list strlist;
 
-	va_start(str_list, n);
+	va_start(strlist, n);
 	for (k = 0; k < n; k++)
 	{
-		str = va_arg(str_list, char *);
+		str = va_arg(strlist, char *);
 		if (str)
 			printf("%s", str);
 		else
-			printf("(nkl)");
+			printf("(nil)");
 		if (k < n - 1 && separator)
 			printf("%s", separator);
 	}
 	printf("\n");
-	va_end(str_list);
+	va_end(stirlist);
 }
